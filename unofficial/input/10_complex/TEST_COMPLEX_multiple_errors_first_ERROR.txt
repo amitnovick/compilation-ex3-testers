@@ -1,5 +1,5 @@
 // Complex error test - Multiple errors - should report first one
-// ERROR - First error is undefined class (line 6)
+// ERROR - First error is undefined class (line 5)
 
 class Person {
     UndefinedClass addr;
